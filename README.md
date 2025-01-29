@@ -8,6 +8,8 @@ This guide will pick up where my fresh install guide left off.
 
 <h2>Program walk-through:</h2>
 
+<h3>Add a new user and escilate privileges</h3>
+
 1. Coming soon<br>
 
   
